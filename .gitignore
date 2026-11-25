@@ -1,0 +1,8 @@
+node_modules/
+output/
+out/
+.verify-out/
+.makefun/
+BRIEF.md
+.env
+*.log
